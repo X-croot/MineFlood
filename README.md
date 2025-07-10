@@ -59,4 +59,4 @@ sudo python3 mineflood.py
 
 🔐 Legal Disclaimer
 
-    WARNING: This tool is intended solely for use in authorized testing environments. Do not use it against any server, network, or system without explicit and written permission from the system owner. The developer cannot be held responsible for any misuse or damage caused by this tool. Using this software is entirely at your own risk and responsibility.
+WARNING: This tool is intended solely for use in authorized testing environments. Do not use it against any server, network, or system without explicit and written permission from the system owner. The developer cannot be held responsible for any misuse or damage caused by this tool. Using this software is entirely at your own risk and responsibility.
