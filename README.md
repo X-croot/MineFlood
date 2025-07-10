@@ -2,7 +2,7 @@
 
 MineFlood was developed specifically for testing the performance, resilience, and UDP handling of Minecraft servers under controlled conditions. It allows administrators, developers, and security testers to:
 
-![DDoS Animation](https://media.tenor.com/XezrWD0BBK0AAAAM/void-downers-hacker-ddos-incoming.gif) ![Preview](https://media.tenor.com/Ufy_tbBg32YAAAAM/spin-villager.gif)
+![Preview](https://media.tenor.com/Ufy_tbBg32YAAAAM/spin-villager.gif)
 
 
 Simulate realistic or randomized UDP traffic,
