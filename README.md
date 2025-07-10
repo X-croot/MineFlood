@@ -41,13 +41,6 @@ You can choose the payload content mode:
 
 You also define a minimum and maximum size (in bytes). Each packet will randomly choose a size in that range, making traffic look unpredictable and realistic.
 
-🔁 Threading
-
-The tool supports multithreading. Up to 10 threads are recommended for stable performance.
-
-In practical tests, just 2 threads sending packets of 50–100 bytes were sufficient to crash a standard home router — showing how lightweight yet powerful the tool can be.
-
-
 
 📁 File Descriptions
 
