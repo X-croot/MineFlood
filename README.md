@@ -62,8 +62,6 @@ PyQt5 library
 Root privileges (required for raw socket usage)
 
 
-    ### 🚀 Quick Start
-
 ```bash
 git clone https://github.com/X-croot/MineFlood.git
 cd mineflood
