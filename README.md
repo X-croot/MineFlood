@@ -13,6 +13,9 @@ Identify potential weaknesses in network configuration or DDoS protection,
 
 Test rate limiting, firewall rules, and anti-bot systems.
 
+<img width="855" height="668" alt="resim" src="https://github.com/user-attachments/assets/deabb99a-800e-41a8-a64b-0c89073c759c" />
+
+
  🧠 IP Spoofing Support: Optionally simulate traffic from spoofed (fake) IP addresses.
 
 🔢 Multithreading: Run multiple concurrent sending threads for high-load testing.
@@ -21,6 +24,28 @@ Test rate limiting, firewall rules, and anti-bot systems.
 
 🖥️ User-Friendly Interface: Modern and clean GUI built with PyQt5.
 
+🕵️‍♂️ IP Spoofing
+
+The application offers a strong IP spoofing engine. You can configure each of the four octets of an IP address manually:
+
+    Entering r will use a random number from 1 to 255.
+    A range like 50-100 will choose a number between 50 and 100.
+    A single number like 168 will fix that octet to that value.
+
+📦 Payload Options
+
+You can choose the payload content mode:
+
+    Raw: Sends completely random bytes.
+    Base64: Sends Base64-encoded random data.
+
+You also define a minimum and maximum size (in bytes). Each packet will randomly choose a size in that range, making traffic look unpredictable and realistic.
+
+🔁 Threading
+
+The tool supports multithreading. Up to 10 threads are recommended for stable performance.
+
+In practical tests, just 2 threads sending packets of 50–100 bytes were sufficient to crash a standard home router — showing how lightweight yet powerful the tool can be.
 
 
 
