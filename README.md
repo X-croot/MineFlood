@@ -5,13 +5,13 @@ MineFlood was developed specifically for testing the performance, resilience, an
 ![DDoS Animation](https://media.tenor.com/sGQm2yFDpv0AAAAM/ddos-game.gif) ![Preview](https://i.imgur.com/6QlGJ1k.gif)
 
 
-    Simulate realistic or randomized UDP traffic,
+Simulate realistic or randomized UDP traffic,
 
-    Measure how their Minecraft servers handle large amounts of packet flow,
+Measure how their Minecraft servers handle large amounts of packet flow,
 
-    Identify potential weaknesses in network configuration or DDoS protection,
+Identify potential weaknesses in network configuration or DDoS protection,
 
-    Test rate limiting, firewall rules, and anti-bot systems.
+Test rate limiting, firewall rules, and anti-bot systems.
 
  🧠 IP Spoofing Support: Optionally simulate traffic from spoofed (fake) IP addresses.
 
@@ -33,15 +33,15 @@ MineFlood was developed specifically for testing the performance, resilience, an
     icon.png: Application icon and banner image
 
 
-    📦 Requirements
+📦 Requirements
 
-    Python 3.x
+Python 3.x
 
-    pip3 (Python package manager)
+pip3 (Python package manager)
 
-    PyQt5 library
+PyQt5 library
 
-    Root privileges (required for raw socket usage)
+Root privileges (required for raw socket usage)
 
 
     ### 🚀 Quick Start
