@@ -46,7 +46,7 @@ You also define a minimum and maximum size (in bytes). Each packet will randomly
 
     mineflood.py: Main application file
 
-    styles.css: (Optional) Custom UI stylesheet/theme
+    styles.css: Custom UI stylesheet/theme
 
     icon.png: Application icon and banner image
 
